@@ -30,11 +30,14 @@
 
 ## 📈 GitHub Analytics
 
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizAlizade473&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=AzizAlizade473&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AzizAlizade473&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizAlizade473&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AzizAlizade473&theme=tokyonight)
+---
+[![](https://visitcount.itsvg.in/api?id=AzizAlizade473&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizAlizade473&layout=compact&theme=tokyonight)
+
 
 ---
 
