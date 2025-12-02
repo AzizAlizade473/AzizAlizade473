@@ -24,10 +24,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,linux,vscode" />
 </p>
 
-### Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,aws" />
-</p>
+
 
 ---
 
