@@ -11,7 +11,7 @@
 - 🎓 **Computer Science student** at Baku Higher Oil School (2024–2029)
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data & Algorithms**
 - 🧠 **National Math Olympiad Winner**
-- 💡 Co-founder of **HydroTile** & **MyStyleAI**
+- 💡 Co-founder of **Epsilon** & **MyStyleAI**
 - 🥇 Experienced in building impactful tech solutions for real-world problems
 - 🛠 Active participant in tech communities and university clubs
 - 🧩 Love solving problems, building projects, and learning new technologies
