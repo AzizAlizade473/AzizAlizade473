@@ -42,7 +42,6 @@ class Aziz:
 
 **Currently**
 - 🏗 Building Epsilon Retail Technologies
-- 📖 Deep in ML and data science
 - 🤝 Open to collabs and hackathons
 
 **Ask me about**
@@ -115,15 +114,7 @@ class Aziz:
 
 ---
 
-## 🔥 Projects
 
-| Project | What it does |
-|:---|:---|
-| 💧 **HydroTile** | Smart water management system — hackathon-winning IoT + data project |
-| 👗 **MyStyleAI** | ML-powered fashion assistant startup |
-| 📊 **Data Analytics** | ML notebooks — Pandas, NumPy, scikit-learn experiments |
-
----
 
 ## 🐍 Snake
 
