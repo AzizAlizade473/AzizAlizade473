@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=220&section=header&text=AZIZ%20ALIZADE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Co-Founder%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20CS%20%40%20BHOS%20%C2%B7%20Baku%2C%20AZ&descSize=15&descColor=9ca3af&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f2937&height=220&section=header&text=AZIZ%20ALIZADE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Co-Founder%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20CS%20%40%20BHOS%20%C2%B7%20Baku%2C%20AZ&descSize=15&descColor=9ca3af&descAlignY=68"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/aziz-alizade-5567002a1/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>&ensp;
 <a href="mailto:aziz.alizada.std@bhos.edu.az"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/></a>&ensp;
 <a href="https://github.com/AzizAlizade473"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>&ensp;
-<img src="https://komarev.com/ghpvc/?username=AzizAlizade473&style=flat-square&color=ffffff&label=views"/>
+<img src="https://komarev.com/ghpvc/?username=AzizAlizade473&style=flat-square&color=555555&label=views"/>
 </div>
 
 <br/>
@@ -27,11 +27,11 @@
 
 ```python
 class Aziz:
-    location   = "Baku, Azerbaijan 🇦🇿"
+    location   = "Baku, Azerbaijan"
     university = "BHOS · CS · 2024–2029"
     role       = "Co-Founder @ Epsilon"
     focus      = ["AI", "ML", "Algorithms"]
-    won        = "National Math Olympiad 🏆"
+    won        = "National Math Olympiad"
     building   = "Retail tech that matters"
     mantra     = "Ship. Learn. Repeat."
 ```
@@ -43,9 +43,9 @@ class Aziz:
 <br/>
 
 **Currently**
-- 🏗 Building Epsilon Retail Technologies
-- 📖 Deep in ML & data science
-- 🤝 Open to collabs & hackathons
+- Building Epsilon Retail Technologies
+- Deep in ML and data science
+- Open to collabs and hackathons
 
 **Ask me about**
 - AI/ML architecture
@@ -63,7 +63,7 @@ class Aziz:
 <table width="100%" border="0">
 <tr>
 <td>
-<img src="https://img.shields.io/badge/OCT%202025–NOW-6d28d9?style=for-the-badge&logoColor=white&label="/>
+<img src="https://img.shields.io/badge/OCT%202025--NOW-6d28d9?style=for-the-badge&logoColor=white"/>
 </td>
 <td>
 <strong>Co-Founder · Head of Corporate Relations · App Developer</strong><br/>
@@ -111,7 +111,7 @@ class Aziz:
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=AzizAlizade473&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://streak-stats.demolab.com?user=AzizAlizade473&theme=github-dark-blue&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -159,4 +159,4 @@ class Aziz:
 <sub>Ship. Learn. Repeat. &nbsp;—&nbsp; Aziz Alizade</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0a0a0a&height=80&section=footer"/>
