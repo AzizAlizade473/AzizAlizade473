@@ -44,10 +44,7 @@ class Aziz:
 - 🏗 Building Epsilon Retail Technologies
 - 🤝 Open to collabs and hackathons
 
-**Ask me about**
-- AI/ML architecture
-- Hackathon strategy
-- Starting from scratch
+
 
 </td>
 </tr>
