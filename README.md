@@ -1,56 +1,54 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f2937&height=220&section=header&text=AZIZ%20ALIZADE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Co-Founder%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20CS%20%40%20BHOS%20%C2%B7%20Baku%2C%20AZ&descSize=15&descColor=9ca3af&descAlignY=68"/>
-</div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+real+products+from+day+one.;National+Math+Olympiad+Winner+%F0%9F%8F%86;Co-Founder+%40+Epsilon+Retail+Technologies;AI+%26+ML+enthusiast+who+ships.;CS+%40+BHOS+%E2%80%94+class+of+2029." />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=700&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=80&lines=AZIZ+ALIZADE" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=2800&pause=700&color=8B949E&background=0D1117&center=true&vCenter=true&width=800&height=40&lines=Co-Founder+%C2%B7+AI+%26+ML+%C2%B7+CS+%40+BHOS+%C2%B7+Baku%2C+AZ" />
 
-<div align="center">
-<a href="https://www.linkedin.com/in/aziz-alizade-5567002a1/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>&ensp;
-<a href="mailto:aziz.alizada.std@bhos.edu.az"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/></a>&ensp;
-<a href="https://github.com/AzizAlizade473"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>&ensp;
-<img src="https://komarev.com/ghpvc/?username=AzizAlizade473&style=flat-square&color=555555&label=views"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=17&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real+products+from+day+one.;National+Math+Olympiad+Winner+%F0%9F%8F%86;Co-Founder+%40+Epsilon+Retail+Technologies;AI+%26+ML+enthusiast+who+ships.;CS+%40+BHOS+%E2%80%94+class+of+2029." />
 
 <br/>
+
+<a href="https://www.linkedin.com/in/aziz-alizade-5567002a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&ensp;
+<a href="mailto:aziz.alizada.std@bhos.edu.az"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&ensp;
+<a href="https://github.com/AzizAlizade473"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/></a>&ensp;
+<img src="https://komarev.com/ghpvc/?username=AzizAlizade473&style=flat-square&color=6e7681&label=views"/>
+
+</div>
 
 ---
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
 ## `whoami`
 
 ```python
 class Aziz:
-    location   = "Baku, Azerbaijan"
+    location   = "Baku, Azerbaijan 🇦🇿"
     university = "BHOS · CS · 2024–2029"
     role       = "Co-Founder @ Epsilon"
     focus      = ["AI", "ML", "Algorithms"]
-    won        = "National Math Olympiad"
+    won        = "National Math Olympiad 🏆"
     building   = "Retail tech that matters"
     mantra     = "Ship. Learn. Repeat."
 ```
 
 </td>
 <td width="4%"></td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
 <br/>
 
 **Currently**
-- Building Epsilon Retail Technologies
-- Deep in ML and data science
-- Open to collabs and hackathons
+- 🏗 Building Epsilon Retail Technologies
+- 📖 Deep in ML and data science
+- 🤝 Open to collabs and hackathons
 
 **Ask me about**
 - AI/ML architecture
 - Hackathon strategy
-- Starting something from scratch
+- Starting from scratch
 
 </td>
 </tr>
@@ -58,55 +56,39 @@ class Aziz:
 
 ---
 
-## Experience
+## 💼 Experience
 
 <table width="100%" border="0">
 <tr>
-<td>
-<img src="https://img.shields.io/badge/OCT%202025--NOW-6d28d9?style=for-the-badge&logoColor=white"/>
+<td width="160">
+<img src="https://img.shields.io/badge/OCT%202025--NOW-6d28d9?style=for-the-badge"/>
 </td>
 <td>
 <strong>Co-Founder · Head of Corporate Relations · App Developer</strong><br/>
-<code>Epsilon Retail Technologies</code> &nbsp;·&nbsp; Baku Economic Zone, AZ<br/>
-<sub>Strategic Partnerships &nbsp;·&nbsp; Public Speaking &nbsp;·&nbsp; App Development &nbsp;·&nbsp; Business Dev</sub>
+<code>Epsilon Retail Technologies</code> · Baku Economic Zone, AZ<br/>
+<sub>Strategic Partnerships · Public Speaking · App Development · Business Dev</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## Stack
+## ⚡ Stack
 
 <div align="center">
-
-<table border="0">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark"/><br/><sub>Python</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark"/><br/><sub>C</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark"/><br/><sub>C++</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark"/><br/><sub>JS</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark"/><br/><sub>HTML</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark"/><br/><sub>CSS</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/><br/><sub>TF</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/><br/><sub>PyTorch</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark"/><br/><sub>Git</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark"/><br/><sub>Linux</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"/><br/><sub>VSCode</sub></td>
-</tr>
-</table>
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,git,linux,vscode&theme=dark"/>
 </div>
 
 ---
 
-## Stats
+## 📊 Stats
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizAlizade473&theme=github_dark" width="100%"/>
 </div>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzizAlizade473&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzizAlizade473&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizAlizade473&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
@@ -120,7 +102,7 @@ class Aziz:
 
 ---
 
-## Wins
+## 🏆 Wins
 
 | | | |
 |:---:|:---|:---:|
@@ -133,17 +115,17 @@ class Aziz:
 
 ---
 
-## Projects
+## 🔥 Projects
 
 | Project | What it does |
 |:---|:---|
-| **HydroTile** 💧 | Smart water management system — hackathon winning IoT + data project |
-| **MyStyleAI** 👗 | ML-powered fashion assistant startup |
-| **Data Analytics** 📊 | ML notebooks — Pandas, NumPy, scikit-learn experiments |
+| 💧 **HydroTile** | Smart water management system — hackathon-winning IoT + data project |
+| 👗 **MyStyleAI** | ML-powered fashion assistant startup |
+| 📊 **Data Analytics** | ML notebooks — Pandas, NumPy, scikit-learn experiments |
 
 ---
 
-## Snake
+## 🐍 Snake
 
 <div align="center">
 <picture>
@@ -156,7 +138,5 @@ class Aziz:
 ---
 
 <div align="center">
-<sub>Ship. Learn. Repeat. &nbsp;—&nbsp; Aziz Alizade</sub>
+<em>Ship. Learn. Repeat. — Aziz Alizade</em>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0a0a0a&height=80&section=footer"/>
