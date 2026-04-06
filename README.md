@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0a0a0a,100:111827&height=220&section=header&text=AZIZ%20ALIZADE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Co-Founder%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20CS%20%40%20BHOS%20%C2%B7%20Baku%2C%20AZ&descSize=15&descColor=6b7280&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=220&section=header&text=AZIZ%20ALIZADE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Co-Founder%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20CS%20%40%20BHOS%20%C2%B7%20Baku%2C%20AZ&descSize=15&descColor=9ca3af&descAlignY=68"/>
 </div>
 
 <div align="center">
@@ -159,4 +159,4 @@ class Aziz:
 <sub>Ship. Learn. Repeat. &nbsp;—&nbsp; Aziz Alizade</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:111827,60:0a0a0a,100:000000&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=80&section=footer"/>
