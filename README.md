@@ -1,185 +1,162 @@
-<!-- HEADER -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a0533,100:0d0221&height=200&section=header&text=AZIZ%20ALIZADE&fontSize=55&fontColor=c084fc&animation=fadeIn&fontAlignY=40&desc=Co-Founder%20%E2%80%A2%20AI%20%26%20ML%20%E2%80%A2%20CS%20@%20BHOS%20%E2%80%A2%20Builder&descAlignY=62&descSize=16&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0a0a0a,100:111827&height=220&section=header&text=AZIZ%20ALIZADE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Co-Founder%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20CS%20%40%20BHOS%20%C2%B7%20Baku%2C%20AZ&descSize=15&descColor=6b7280&descAlignY=68"/>
 </div>
 
-<!-- TYPING -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&width=700&lines=🚀+Co-Founder+%40+Epsilon+Retail+Technologies;🏆+National+Math+Olympiad+Winner;🤖+Building+with+AI+%26+Machine+Learning;🎓+CS+Student+%40+BHOS+2024–2029;⚡+Build.+Learn.+Improve.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+real+products+from+day+one.;National+Math+Olympiad+Winner+%F0%9F%8F%86;Co-Founder+%40+Epsilon+Retail+Technologies;AI+%26+ML+enthusiast+who+ships.;CS+%40+BHOS+%E2%80%94+class+of+2029." />
 </div>
 
 <br/>
 
-<!-- BADGES -->
 <div align="center">
-<a href="https://www.linkedin.com/in/aziz-alizade-5567002a1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:aziz.alizada.std@bhos.edu.az"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/AzizAlizade473"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AzizAlizade473&style=for-the-badge&color=7c3aed&label=VIEWS"/>
+<a href="https://www.linkedin.com/in/aziz-alizade-5567002a1/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>&ensp;
+<a href="mailto:aziz.alizada.std@bhos.edu.az"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/></a>&ensp;
+<a href="https://github.com/AzizAlizade473"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>&ensp;
+<img src="https://komarev.com/ghpvc/?username=AzizAlizade473&style=flat-square&color=ffffff&label=views"/>
 </div>
 
 <br/>
 
 ---
 
-<!-- ABOUT -->
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="58%" valign="top">
 
-## 🧬 About Me
+## `whoami`
 
 ```python
 class Aziz:
-    name       = "Aziz Alizade"
-    university = "Baku Higher Oil School (BHOS)"
-    degree     = "Computer Science, 2024–2029"
     location   = "Baku, Azerbaijan 🇦🇿"
-    focus      = ["AI", "ML", "Algorithms", "Data Science"]
-    superpower = "National Math Olympiad Winner 🏆"
-    startup    = "Co-Founder @ Epsilon Retail Technologies"
-    mindset    = "Build. Learn. Improve. Repeat. 🔁"
-    
-    def greet(self):
-        return "Let's build something great together!"
+    university = "BHOS · CS · 2024–2029"
+    role       = "Co-Founder @ Epsilon"
+    focus      = ["AI", "ML", "Algorithms"]
+    won        = "National Math Olympiad 🏆"
+    building   = "Retail tech that matters"
+    mantra     = "Ship. Learn. Repeat."
 ```
 
-<br clear="right"/>
-
----
-
-<!-- EXPERIENCE -->
-## 💼 Experience
-
-<table width="100%">
-<tr>
-<td width="70" align="center">
-<img src="https://img.shields.io/badge/ε-7c3aed?style=for-the-badge&logoColor=white&label=&color=7c3aed"/>
 </td>
-<td>
-<strong>Co-Founder · Head of Corporate Relations · App Developer</strong><br/>
-<code>Epsilon Retail Technologies</code> · Self-employed · <em>Oct 2025 – Present</em><br/>
-📍 Baku Economic Zone, Azerbaijan<br/>
-<sub>
-<img src="https://img.shields.io/badge/Strategic Partnerships-1a0533?style=flat&labelColor=7c3aed"/>
-<img src="https://img.shields.io/badge/Public Speaking-1a0533?style=flat&labelColor=7c3aed"/>
-<img src="https://img.shields.io/badge/App Development-1a0533?style=flat&labelColor=7c3aed"/>
-<img src="https://img.shields.io/badge/Business Dev-1a0533?style=flat&labelColor=7c3aed"/>
-</sub>
+<td width="4%"></td>
+<td width="38%" valign="top">
+
+<br/>
+
+**Currently**
+- 🏗 Building Epsilon Retail Technologies
+- 📖 Deep in ML & data science
+- 🤝 Open to collabs & hackathons
+
+**Ask me about**
+- AI/ML architecture
+- Hackathon strategy
+- Starting something from scratch
+
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- TECH STACK -->
-## ⚡ Tech Stack
+## Experience
+
+<table width="100%" border="0">
+<tr>
+<td>
+<img src="https://img.shields.io/badge/OCT%202025–NOW-6d28d9?style=for-the-badge&logoColor=white&label="/>
+</td>
+<td>
+<strong>Co-Founder · Head of Corporate Relations · App Developer</strong><br/>
+<code>Epsilon Retail Technologies</code> &nbsp;·&nbsp; Baku Economic Zone, AZ<br/>
+<sub>Strategic Partnerships &nbsp;·&nbsp; Public Speaking &nbsp;·&nbsp; App Development &nbsp;·&nbsp; Business Dev</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
 
 <div align="center">
 
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table border="0">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark"/><br/><sub>C</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark"/><br/><sub>C++</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark"/><br/><sub>JS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark"/><br/><sub>HTML</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark"/><br/><sub>CSS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/><br/><sub>TF</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/><br/><sub>PyTorch</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark"/><br/><sub>Linux</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"/><br/><sub>VSCode</sub></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Stats
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizAlizade473&theme=github_dark" width="100%"/>
+</div>
 
-<!-- Profile summary cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizAlizade473&theme=midnight_purple" width="100%"/>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzizAlizade473&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizAlizade473&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizAlizade473&theme=midnight_purple" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizAlizade473&theme=midnight_purple" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AzizAlizade473&theme=midnight_purple" width="32%"/>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=AzizAlizade473&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
 
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzizAlizade473&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizAlizade473&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AzizAlizade473&theme=midnight-purple&hide_border=true&background=0d0221&ring=c084fc&fire=a855f7&currStreakLabel=c084fc"/>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizAlizade473&bg_color=0d0221&color=c084fc&line=7c3aed&point=a855f7&area=true&hide_border=true&area_color=3b0764"/>
-
+<div align="center">
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizAlizade473&theme=github-compact&hide_border=true&area=true"/>
 </div>
 
 ---
 
-## 🏆 Trophies
+## Wins
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AzizAlizade473&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-</div>
-
----
-
-## 🎖️ Achievements
-
-<div align="center">
-
-| | Achievement | Result |
+| | | |
 |:---:|:---|:---:|
-| 🥇 | National Math Olympiad — Republic Finals (RFO) | **Winner** |
-| 🥈 | GDG Baku × Holberton Hackathon | **2nd Place** |
-| 🥉 | WaterTech Hackathon | **3rd Place** |
-| 🥉 | Rebuild Karabakh Hackathon | **3rd Place** |
-| 📘 | IELTS Academic | **8.0 Band** |
-| 🌍 | EuroSchool 2025 | **EU Delegation Participant** |
-
-</div>
+| 🥇 | National Math Olympiad — Republic Finals (RFO) | **1st** |
+| 🥈 | GDG Baku × Holberton Hackathon | **2nd** |
+| 🥉 | WaterTech Hackathon | **3rd** |
+| 🥉 | Rebuild Karabakh Hackathon | **3rd** |
+| 📘 | IELTS Academic | **8.0** |
+| 🌍 | EuroSchool 2025 — EU Delegation | **Participant** |
 
 ---
 
-## 🔥 Featured Projects
+## Projects
 
-<div align="center">
-
-| Project | Description | Stack |
-|:---|:---|:---:|
-| 💧 **HydroTile** | Smart sustainable water management — hackathon winner | `IoT` `Data` `Python` |
-| 👗 **MyStyleAI** | ML-powered personal fashion assistant | `ML` `Python` `AI` |
-| 📊 **Data Analytics** | ML notebooks, Pandas & NumPy experiments | `Python` `sklearn` |
-
-</div>
+| Project | What it does |
+|:---|:---|
+| **HydroTile** 💧 | Smart water management system — hackathon winning IoT + data project |
+| **MyStyleAI** 👗 | ML-powered fashion assistant startup |
+| **Data Analytics** 📊 | ML notebooks — Pandas, NumPy, scikit-learn experiments |
 
 ---
 
-## 🐍 Contribution Snake
+## Snake
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzizAlizade473/AzizAlizade473/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzizAlizade473/AzizAlizade473/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AzizAlizade473/AzizAlizade473/output/github-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AzizAlizade473/AzizAlizade473/output/github-snake-dark.svg"/>
 </picture>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=⭐+Build.+Learn.+Improve.+Repeat.+⭐" />
+<sub>Ship. Learn. Repeat. &nbsp;—&nbsp; Aziz Alizade</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a0533,100:0d0221&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:111827,60:0a0a0a,100:000000&height=80&section=footer"/>
