@@ -113,7 +113,7 @@ class Aziz:
 
 
 
-## 🐍 Snake
+
 
 <div align="center">
 <picture>
